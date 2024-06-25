@@ -1,0 +1,10 @@
+		SOMEE
+
+	         | |
+	          V
+
+email : Enchanterweb@protonmail.com  password ==> Aa123456!     
+
+String connection to database : workstation id=Enchanterweb.mssql.somee.com;packet size=4096;user id=Enchanter_SQLLogin_2;pwd=mlqeyrery2;data 
+
+                                source=Enchanterweb.mssql.somee.com;persist security info=False;initial catalog=Enchanterweb;TrustServerCertificate=True;
